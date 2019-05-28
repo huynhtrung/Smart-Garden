@@ -1,0 +1,6 @@
+web: http://118.69.225.61:8312/project
+mysql: 118.69.225.61 port 8212
+
+Account mysql: arduinoTrung / ZfKar@SHkY#WsvBNa!     DB: arduinotrung
+
+Account sftp: arduinotrung / HfkYzX@HmC$Upo
